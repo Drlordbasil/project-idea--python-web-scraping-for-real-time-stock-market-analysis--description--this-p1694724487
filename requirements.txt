@@ -1,0 +1,16 @@
+The package requirements for this Python program are as follows:
+
+- requests
+- bs4 (BeautifulSoup)
+- pandas
+- datetime
+- numpy
+- matplotlib
+- smtplib
+
+You can install these packages using the following command:
+```
+pip install requests bs4 pandas numpy matplotlib
+```
+
+Note: The `smtplib` package is part of the Python standard library and does not need to be installed separately.
